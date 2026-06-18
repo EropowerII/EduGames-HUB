@@ -23,6 +23,7 @@ function copyFolderRecursiveSync(source: string, target: string) {
 
 export default defineConfig(() => {
   return {
+    base: './',
     plugins: [
       react(), 
       tailwindcss(),

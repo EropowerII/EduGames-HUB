@@ -1,0 +1,6 @@
+{
+  "name": "Hub de Videojuegos Educativos",
+  "description": "Un portal interactivo, minimalista y elegante con videojuegos educativos de matemáticas y lenguaje.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
